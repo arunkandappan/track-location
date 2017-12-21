@@ -1,2 +1,2 @@
 # track-location
-Track a user
+Track a user. Initial version only!
